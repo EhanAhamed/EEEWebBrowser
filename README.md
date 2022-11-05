@@ -1,4 +1,4 @@
-# eeeWebBrowser
+# EEEWebBrowser
 
 > ***E***han's ***E***xtensible ***E***lectron-based ***Web Browser***
 
