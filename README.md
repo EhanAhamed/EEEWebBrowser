@@ -2,7 +2,7 @@
 
 > ***E***han's ***E***xtensible ***E***lectron-based ***Web Browser***
 
-Warning: This project is a work in progress, its created and maintained by me, Ehan, *a literal 13 year old*, and as of right now this project doesn't even exist. Nothing is finished or even started, I'll add more to it when I have the time. If you're reading this, then theres nothing to see here for now.
+***WARNING***: ***This project is a work in progress, its created and maintained by me, Ehan, *a literal 13 year old*, and as of right now this project doesn't even exist. Nothing is finished or even started, I'll add more to it when I have the time. If you're reading this, then theres nothing to see here for now.***
 
 ## The Idea
 
