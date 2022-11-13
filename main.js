@@ -1,4 +1,4 @@
-const { app, BrowserWindow } = require('electron')
+const { app, BrowserWindow } = require('electron');
 
 const createWindow = () => {
   const win = new BrowserWindow({
@@ -11,10 +11,9 @@ const createWindow = () => {
 
 app.whenReady().then(() => {
   createWindow()
-})
+});
 
 app.on('window-all-closed', () => {
   app.quit()
-})
-
+});
 
