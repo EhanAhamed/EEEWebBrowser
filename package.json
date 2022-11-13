@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/EhanAhamed/vimLikeElectronWebBrowser#readme",
   "devDependencies": {
-    "electron": "^21.2.2"
+    "electron": "^21.2.2",
+    "jshint": "^2.13.6"
   }
 }
